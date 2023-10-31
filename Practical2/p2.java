@@ -5,16 +5,17 @@ public class p2 {
 
     }
 
-    public static void add(int start, int end) {
+    public static int add(int start, int end) {
         if (end < start){
             System.out.println("error, Invalid input");
-            return;
+            return 0;
         }
         int sum = 0;
         for (int counter = start; counter <= end; counter++) {
             sum += counter;
         }
         System.out.println(sum);
+        return sum;
 
     }
 

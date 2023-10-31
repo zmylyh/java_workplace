@@ -6,12 +6,13 @@ public class p1 {
 
     }
 
-    public static void add(int start, int end) {
+    public static int add(int start, int end) {
         int sum = 0;
         for (int counter = start; counter <= end; counter++) {
             sum += counter;
         }
         System.out.println(sum);
+        return sum;
 
     }
 }
