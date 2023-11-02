@@ -3,7 +3,7 @@ package Practical3;
 import java.util.Scanner;
 
 class Door {
-    private Boolean isOpen = false;
+    protected Boolean isOpen = false;
 
     public Boolean openDoor() {
         if (isOpen) {
