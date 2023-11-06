@@ -23,12 +23,11 @@ public class DoorWithLock extends Door {
         if (isLocked) {
             isLocked = false;
             System.out.println("Door unlocked");
-            return isLocked;
         } else {
             System.out.println("Door is not\n" +
                     "locked!");
-            return isLocked;
         }
+        return isLocked;
     }
 
     public Boolean openDoor() {

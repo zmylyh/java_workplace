@@ -8,23 +8,21 @@ class Door {
     public Boolean openDoor() {
         if (isOpen) {
             System.out.println("Door already open");
-            return isOpen;
         } else {
             isOpen = true;
             System.out.println("Door opened");
-            return isOpen;
         }
+        return isOpen;
     }
 
     public Boolean closeDoor() {
         if (isOpen) {
             isOpen = false;
             System.out.println("Door closed");
-            return isOpen;
         } else {
             System.out.println("Door already closed");
-            return isOpen;
         }
+        return isOpen;
     }
 
     public Boolean getIsOpen() {
