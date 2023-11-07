@@ -1,4 +1,6 @@
-package org.example;
+package Practical4.untitled.src.test.java.org.example;
+
+import Practical4.untitled.src.main.java.org.example.Calculator;
 
 import org.junit.Test;
 
