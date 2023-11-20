@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="80966f39-38f2-4e7d-b042-2dda74e94191" name="更改" comment="p8">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical9/encryptbyshift.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical9/letterfrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical9/match.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical9/matchid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practical9/reversestring.java" afterDir="false" />
+    <list default="true" id="80966f39-38f2-4e7d-b042-2dda74e94191" name="更改" comment="p9">
       <change beforePath="$PROJECT_DIR$/.idea/codestream.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codestream.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -84,7 +77,9 @@
       <workItem from="1699237746687" duration="70000" />
       <workItem from="1699872723654" duration="272000" />
       <workItem from="1699936214848" duration="3961000" />
-      <workItem from="1700116297506" duration="1709000" />
+      <workItem from="1700116297506" duration="1736000" />
+      <workItem from="1700440015042" duration="672000" />
+      <workItem from="1700440853052" duration="1237000" />
     </task>
     <task id="LOCAL-00001" summary="p7">
       <option name="closed" value="true" />
@@ -102,7 +97,15 @@
       <option name="project" value="LOCAL" />
       <updated>1699951570524</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="p9">
+      <option name="closed" value="true" />
+      <created>1700118034755</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700118034755</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +114,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="p7" />
     <MESSAGE value="p8" />
-    <option name="LAST_COMMIT_MESSAGE" value="p8" />
+    <MESSAGE value="p9" />
+    <option name="LAST_COMMIT_MESSAGE" value="p9" />
   </component>
 </project>
